@@ -6,7 +6,7 @@
 ###### This is the first project completed in the nanodegree program where we use bike share data set and build a prediction model using a neural network to predict the number of bike share users on any given day. 
 
 ##### 2. Sentiment Analysis with Andrew Trask 
-###### 
+###### This project is based on lectures by Andrew Trask on sentiment analysis and contains step-by-step introduction to sentiment analysis using IMDB movie reviews dataset. 
 
 ##### 3. Image Classification CIFAR-10
 ######
