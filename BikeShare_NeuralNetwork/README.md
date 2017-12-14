@@ -1,1 +1,1 @@
-
+#### This project is about implementation of a neural network to solve regression probelm. It involves implementing concepts of gradient descent, backpropagation, hyperparameter tuning, loss function selection and activation function.
